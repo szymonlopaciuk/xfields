@@ -4,4 +4,3 @@
 # ######################################### #
 
 from .element_types import DEFAULT_XFIELDS_ELEMENTS, NON_TRACKING_ELEMENTS
-from .element_inits import XFIELDS_ELEMENTS_INIT_DEFAULTS
